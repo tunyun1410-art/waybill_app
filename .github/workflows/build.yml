@@ -18,5 +18,5 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: waybill-app-apk
-          path: build/app/outputs/flutter-apk/app-debug.a
-          pk
+          path: build/app/outputs/flutter-apk/app-debug.apk
+          
